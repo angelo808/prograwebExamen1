@@ -1,0 +1,123 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.foto2p{
+    padding-top: 250px;
+    color: white;
+    font-weight: bold;
+}
+.equisde{
+    background-color:rgb(243, 176, 52) ;
+    border: 2px solid black;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.equisde2{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.vermas{
+    text-decoration: underline;
+    color: black;
+}
+.overwatch{
+    padding-top: 500px;
+}
+.khe{
+    padding-left: 600px;
+}
+header{
+    padding-bottom: 1px;
+
+    text-align: center;
+
+}
+.ultimo{
+    padding-top: 270px;
+}
+.span3{
+    font-weight: bold;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p3{
+
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+
+    display: flex;
+    background-color: gray;
+    font-size: 11px;
+
+}
+nav a{
+    color: black;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.uwu{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+aside{
+    flex: 30%;
+    padding-left: 0px;
+    margin-top: 1px;
+    background-image:url(01.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+section{
+    flex: 30%;
+    padding: 10px;
+    padding-top: 0px;
+}
+.img2{
+    background-image:url(02.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.img3{
+    background-image:url(03.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+footer{
+    padding: 20px;
+    text-align: left;
+    font-size: 7px;
+    color: white;
+    background-color: black;
+
+}
+
+.img1{
+    width: 650px;
+    height: 700px;
+}
+.img2{
+    width: 550px;
+    height: 350px;
+}
+.img3{
+    width: 550px;
+    height: 350px;
+}
+.logo{
+    padding-top: 0px;
+    padding-left: 1150px;
+}
